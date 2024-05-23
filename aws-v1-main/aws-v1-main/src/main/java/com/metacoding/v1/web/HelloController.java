@@ -21,7 +21,7 @@ public class HelloController {
         		return "<h1>number 값이 -1로 요청했습니다.";
 	}else if(number == 0){ // warn 로그
             log.warn("<h1>number 값이 0로 요청했습니다.</h1> #####################################");
-		return "<h1>number 값이 0로 요청했습니다.";        
+		return "<h1>나는 장여니야 안녕ㄴ안영ㄴ앟어니어리너리;ㅓㄴㅇ러</h1>";        
 	}
         
         return "<h2>aaa aws v1</h2>";
